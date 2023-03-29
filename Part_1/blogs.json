@@ -17,5 +17,19 @@
     "description": "Description Test: 2!",
     "main_image": "images/main_image_2_test.jpg",
     "date_time": 1671017981
+  },
+  {
+    "title": "New blog",
+    "description": "First post of this json",
+    "main_image": "images/main_image-2212121212.jpeg",
+    "date_time": 2212121212,
+    "reference": "00003"
+  },
+  {
+    "title": "New blog",
+    "description": "Second post",
+    "main_image": "images/main_image-2212121212.jpeg",
+    "date_time": 2212121212,
+    "reference": "00004"
   }
 ]

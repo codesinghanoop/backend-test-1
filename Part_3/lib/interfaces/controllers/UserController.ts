@@ -163,7 +163,7 @@ export default {
     if (!user) {
       return response.status(404).json({ message: 'Not Found' });
     }
-    return response.sendStatus(204);
+    return response.json({ deletedId: toDeleteUserId })
   },
 
 };
